@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis and Event Correlation          | <a href="https://google.com">Log analysis and correlation of events (Unit 1)</a>|
-| File Integrity Monitoring | <a href="https://google.com">File integrity validation (Unit 2)</a>|
+| Log Analysis and Event Correlation          | Log analysis and correlation of events (Unit 1)</a>|
+| File Integrity Monitoring | File integrity validation (Unit 2)</a>|
 | Directory Traversal Attack Detection         | Endpoint networking (FTP) (Unit 3)|
 | Proxy and DoS Attack Simulation      | Enterprise networking (DoS) (Unit 4)|
 | SIEM and Event Correlation                  | SIEM CTF (Unit 5)|
